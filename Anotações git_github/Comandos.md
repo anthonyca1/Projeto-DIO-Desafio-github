@@ -19,6 +19,7 @@
  - git add * = Adicionar um novo arquivo á maquina local.
  - git commit -m "Descrição" = Comitar um novo arquivo. 
  - git status = Checar o status dos arquivos (untracking, modified, staged).
+ - git push = Para enviar os arquivos para o github.
 
  ### Outros comandos :
   [Clique aqui para ver os comandos do git bash](https://comandosgit.github.io)
