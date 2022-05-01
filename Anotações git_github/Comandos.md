@@ -20,4 +20,7 @@
  - git commit -m "Descrição" = Comitar um novo arquivo. 
  - git status = Checar o status dos arquivos (untracking, modified, staged).
 
+ ### Outros comandos :
+  [Clique aqui para ver os comandos do git bash](https://comandosgit.github.io)
+
 
